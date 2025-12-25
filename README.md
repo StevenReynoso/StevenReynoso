@@ -17,7 +17,7 @@ I am a **Computer Engineering Master's student** and **Embedded Developer** pass
 
 **Tools & Protocols**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23064F8C.svg?style=for-the-badge&logo=cmake&logoColor=white)
-![UART](https://img.shields.io/badge/UART-Protocol-green?style=flat-square) ![I2C](https://img.shields.io/badge/I2C-Protocol-green?style=flat-square) ![SPI](https://img.shields.io/badge/SPI-Protocol-green?style=flat-square)
+![UART](https://img.shields.io/badge/UART-Protocol-blue?style=flat-square) ![I2C](https://img.shields.io/badge/I2C-Protocol-blue?style=flat-square) ![SPI](https://img.shields.io/badge/SPI-Protocol-blue?style=flat-square)
 
 ---
 
