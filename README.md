@@ -21,7 +21,7 @@ I am a **Computer Engineering Master's student** and **Embedded Developer** pass
 
 ---
 
-### 🔭 Key Projects
+###  Key Projects
 
 <table>
   <tr>
