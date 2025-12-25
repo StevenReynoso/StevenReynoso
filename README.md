@@ -36,17 +36,8 @@ I am a **Computer Engineering Master's student** and **Embedded Developer** pass
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StevenReynoso&show_icons=true&theme=radical&hide_border=true" height="150" alt="Steven's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenReynoso&layout=compact&theme=radical&hide_border=true&langs_count=6" height="150" alt="Top Languages" />
-</div>
-
----
-
 ### Connect with Me
 
-- **LinkedIn:** [linkedin.com/in/steven-reynoso](https://linkedin.com/in/steven-reynoso)
-- **Email:** steven.reynoso@gmail.com
+- **LinkedIn:** [linkedin.com/in/steven-reynoso](https://www.linkedin.com/in/stevenreynoso123/)
+- **Email:** sreynosowork@gmail.com
 - **Portfolio:** [Your Portfolio Link if you have one]
