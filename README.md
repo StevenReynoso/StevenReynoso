@@ -58,7 +58,7 @@ I am a **Computer Engineering Master's student** and **Embedded Developer** pass
     <td width="50%">
       <h3 align="center"> STM32 HAL Library</h3>
       <div align="center">
-        <a href="[https://github.com/StevenReynoso/Hal_Library](https://github.com/StevenReynoso/Hal_Library)">
+        <a href="https://github.com/StevenReynoso/Hal_Library">
           <img src="https://img.shields.io/badge/Driver_Dev-Embedded_C-00599C?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
         </a>
       </div>
