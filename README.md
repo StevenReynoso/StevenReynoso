@@ -21,18 +21,70 @@ I am a **Computer Engineering Master's student** and **Embedded Developer** pass
 
 ---
 
-###  Key Projects
+### 🔭 Key Projects
 
-#### **[Bare-Metal RTOS Kernel](https://github.com/StevenReynoso/task_monitor_rtos)**
-*A cooperative Real-Time Operating System built from scratch in C.*
-- **No HAL / No CMSIS:** Written purely with register-level programming.
-- Features custom task scheduling logic using SysTick.
-- Implemented GDB-debuggable task monitoring and context switching.
-
-#### **[STM32 Hardware Abstraction Layer (HAL)](https://github.com/StevenReynoso/Hal_Library)**
-*Custom low-level drivers for STM32F4 Microcontrollers.*
-- Drivers for GPIO, UART, SPI, I2C, Timers, and NVIC.
-- Validated via **Oscilloscope Tracing** and Logic Analyzers.
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center"> Mobile Robot Autonomy</h3>
+      <div align="center">
+        <a href="https://github.com/StevenReynoso/Your-Repo-Link">
+          <img src="https://img.shields.io/badge/View_Repo-ROS_%7C_Python-blue?style=for-the-badge&logo=ros" />
+        </a>
+      </div>
+      <br />
+      <ul>
+        <li>Engineered autonomy software using <strong>ROS</strong>, <strong>OpenCV</strong>, and <strong>Intel RealSense</strong>.</li>
+        <li>Developed reactive control pipelines to correct sensor drift and PID misalignment.</li>
+        <li>Trained reinforcement policies using <strong>NVIDIA Isaac Sim</strong>.</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3 align="center"> Bare-Metal RTOS Kernel</h3>
+      <div align="center">
+        <a href="https://github.com/StevenReynoso/Your-Repo-Link">
+          <img src="https://img.shields.io/badge/View_Repo-C_%7C_Assembly-black?style=for-the-badge&logo=c" />
+        </a>
+      </div>
+      <br />
+      <ul>
+        <li>Built a cooperative RTOS from scratch in C (<strong>No HAL / No CMSIS</strong>).</li>
+        <li>Implemented custom task scheduling using SysTick and context switching.</li>
+        <li>Features GDB-debuggable task monitoring and real-time logging.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"> STM32 HAL Library</h3>
+      <div align="center">
+        <a href="https://github.com/StevenReynoso/Your-Repo-Link">
+          <img src="https://img.shields.io/badge/View_Repo-Embedded_C-00599C?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+        </a>
+      </div>
+      <br />
+      <ul>
+        <li>Custom low-level drivers for <strong>STM32F4</strong> (GPIO, UART, SPI, I2C).</li>
+        <li>Direct register programming to minimize overhead.</li>
+        <li>Validated drivers via <strong>Oscilloscope Tracing</strong> and Logic Analyzers.</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3 align="center"> Octagon Fight Stats</h3>
+      <div align="center">
+        <a href="https://github.com/StevenReynoso/Your-Repo-Link">
+          <img src="https://img.shields.io/badge/View_Repo-React_%7C_Node-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+        </a>
+      </div>
+      <br />
+      <ul>
+        <li>Full-stack analytics platform built with <strong>React</strong> and <strong>Node.js</strong>.</li>
+        <li>Optimized database queries for fast retrieval of fighter statistics.</li>
+        <li>Responsive mobile-first design with lazy loading.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
