@@ -26,9 +26,9 @@ I am a **Computer Engineering Master's student** and **Embedded Developer** pass
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center"> Mobile Robot Autonomy</h3>
+      <h3 align="center"> Sleep Apnea Detector</h3>
       <div align="center">
-        <a href="https://github.com/StevenReynoso/Your-Repo-Link">
+        <a href="https://github.com/StevenReynoso/Sleep-Apnea-Detector">
           <img src="https://img.shields.io/badge/View_Repo-ROS_%7C_Python-blue?style=for-the-badge&logo=ros" />
         </a>
       </div>
