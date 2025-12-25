@@ -28,7 +28,7 @@ I am a **Computer Engineering Master's student** and **Embedded Developer** pass
     <td width="50%">
       <h3 align="center"> Embedded Sleep Apnea Detection</h3>
       <div align="center">
-        <a href="https://github.com/StevenReynoso/SleepApneaDetection">
+        <a href="https://github.com/StevenReynoso/Sleep-Apnea-Detector">
           <img src="https://img.shields.io/badge/TinyML-STM32_%7C_TensorFlow-orange?style=for-the-badge&logo=stmicroelectronics" />
         </a>
       </div>
