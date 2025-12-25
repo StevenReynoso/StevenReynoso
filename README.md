@@ -42,7 +42,7 @@ I am a **Computer Engineering Master's student** and **Embedded Developer** pass
     <td width="50%">
       <h3 align="center"> Bare-Metal RTOS Kernel</h3>
       <div align="center">
-        <a href="https://github.com/StevenReynoso/Your-RTOS-Repo">
+        <a href="https://github.com/StevenReynoso/RTOS_Task_Scheduler_No_library">
           <img src="https://img.shields.io/badge/System-C_%7C_Assembly-black?style=for-the-badge&logo=c" />
         </a>
       </div>
@@ -58,7 +58,7 @@ I am a **Computer Engineering Master's student** and **Embedded Developer** pass
     <td width="50%">
       <h3 align="center"> STM32 HAL Library</h3>
       <div align="center">
-        <a href="https://github.com/StevenReynoso/Your-HAL-Repo">
+        <a href="https://github.com/StevenReynoso/Hal_Library">
           <img src="https://img.shields.io/badge/Driver_Dev-Embedded_C-00599C?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
         </a>
       </div>
